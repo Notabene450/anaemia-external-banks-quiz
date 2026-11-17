@@ -1,2 +1,5 @@
-# anaemia-external-banks-quiz
-Anaemia · External Banks · Quiz
+# Anaemia · External Banks · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
